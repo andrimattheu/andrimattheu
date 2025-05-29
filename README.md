@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andrimattheu
+- 👋 Hallo, I’m @andrimattheu
 - 👀 I’m interested in tech anything
 - 🌱 I’m currently learning C#
 - 📫 How to reach me andrimattheu.bsky.social
