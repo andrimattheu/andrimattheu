@@ -1,8 +1,6 @@
 - 👋 Hallo, I’m @andrimattheu
-- 👀 I’m interested in tech anything, 
-- 🌱 I’m currently learning... I don't know yet actually
+- 😪 I do whatever bcuz I'm bored
 - 📫 Reach me at: andrimattheu.bsky.social
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: i cant actually code anything yet lmao
 
 <!---
