@@ -1,6 +1,6 @@
 - 👋 Hallo, I’m @andrimattheu
 - 😪 I do whatever bcuz I'm bored
-- 📫 Reach me at: andrimattheu.bsky.social
+- 📫 Reach me at my linked socials
 - ⚡ Fun fact: i cant actually code anything yet lmao
 
 <!---
